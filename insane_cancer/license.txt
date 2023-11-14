@@ -1,0 +1,11 @@
+Model Information:
+* title:	Insane Cancer
+* source:	https://sketchfab.com/3d-models/insane-cancer-a222eb4227ec4128aab322bf0eacfed4
+* author:	deankagura (https://sketchfab.com/deankagura)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Insane Cancer" (https://sketchfab.com/3d-models/insane-cancer-a222eb4227ec4128aab322bf0eacfed4) by deankagura (https://sketchfab.com/deankagura) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
