@@ -1,0 +1,11 @@
+Model Information:
+* title:	Garfield
+* source:	https://sketchfab.com/3d-models/garfield-9f18bcecb5484c8eb0fa5867a09f0423
+* author:	gaddiellartey2010 (https://sketchfab.com/gaddiellartey2010)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Garfield" (https://sketchfab.com/3d-models/garfield-9f18bcecb5484c8eb0fa5867a09f0423) by gaddiellartey2010 (https://sketchfab.com/gaddiellartey2010) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
