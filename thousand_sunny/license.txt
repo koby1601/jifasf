@@ -1,0 +1,11 @@
+Model Information:
+* title:	thousand Sunny
+* source:	https://sketchfab.com/3d-models/thousand-sunny-cfa15cf0499c4e7dac61cd58905c5e27
+* author:	serienreviewer (https://sketchfab.com/serienreviewer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "thousand Sunny" (https://sketchfab.com/3d-models/thousand-sunny-cfa15cf0499c4e7dac61cd58905c5e27) by serienreviewer (https://sketchfab.com/serienreviewer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
