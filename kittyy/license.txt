@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kittyy
+* source:	https://sketchfab.com/3d-models/kittyy-2b08de557f8a4a1d9f2bef0f85f7d101
+* author:	Birdeso (https://sketchfab.com/Birdeso)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kittyy" (https://sketchfab.com/3d-models/kittyy-2b08de557f8a4a1d9f2bef0f85f7d101) by Birdeso (https://sketchfab.com/Birdeso) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
