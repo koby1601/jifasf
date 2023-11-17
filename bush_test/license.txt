@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bush Test
+* source:	https://sketchfab.com/3d-models/bush-test-520dc8e3d01d4ddc8d97c710508f9f8b
+* author:	Michele.Passerino (https://sketchfab.com/Michele.Passerino)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bush Test" (https://sketchfab.com/3d-models/bush-test-520dc8e3d01d4ddc8d97c710508f9f8b) by Michele.Passerino (https://sketchfab.com/Michele.Passerino) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
