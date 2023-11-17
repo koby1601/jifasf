@@ -1,0 +1,11 @@
+Model Information:
+* title:	Emù
+* source:	https://sketchfab.com/3d-models/emu-96605286d6cb4eb69642e8aa72ed0f15
+* author:	Elisabetta.Buono (https://sketchfab.com/Elisabetta.Buono)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Emù" (https://sketchfab.com/3d-models/emu-96605286d6cb4eb69642e8aa72ed0f15) by Elisabetta.Buono (https://sketchfab.com/Elisabetta.Buono) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
